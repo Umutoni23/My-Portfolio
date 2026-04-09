@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
-import profileImage from "../../ye.jpeg";
+import profileImage from "../assets/ye.jpeg";
+
 
 const navItems = [
   { to: "/", label: "Home" },
@@ -19,7 +20,7 @@ function Navbar() {
             alt="Leoncie Umutoni"
             className="site-brand__image"
           />
-          Umutoni
+          Umutoni's Portfolio
         </NavLink>
 
         <nav className="site-menu" aria-label="Main navigation">
