@@ -62,9 +62,7 @@ function Home() {
                     Engineer Planning Coordinator Assisstant at REG
                   </h2>
                   <p className="timeline-step__text">
-                    Share who you are, what you study, and the kind of impact
-                    you want to create through technology and project
-                    management.
+                    I supported the planning and coordination of engineering projects by managing schedules, tracking progress and ensuring effective team collaboration, contributing to timely and effecirnt project delivery.
                   </p>
                   <a href="/about" className="timeline-step__link">
                     Learn More
@@ -79,12 +77,10 @@ function Home() {
                 <div className="timeline-step__content">
                   <h2 className="timeline-step__title">Teaching Assisstant at IEE</h2>
                   <p className="timeline-step__text">
-                    Use this section to highlight your strengths, showcase your
-                    projects, and create a warm first impression for anyone
-                    visiting your portfolio.
+                   I supported teaching and learning activities by assissting in lesson delivery, guiding students and creating supportive classroom environment that improves student engagement and understanding.
                   </p>
-                  <a href="/projects" className="timeline-step__link">
-                    View Projects
+                  <a href="/projects" className="timeline-step __link">
+                    Learn More
                   </a>
                 </div>
               </div>
@@ -97,6 +93,7 @@ function Home() {
             </div>
           </div>
         </div>
+        
       </section>
     </>
   );
