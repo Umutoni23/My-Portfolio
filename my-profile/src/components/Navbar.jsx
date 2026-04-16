@@ -1,13 +1,20 @@
 import { NavLink } from "react-router-dom";
+import {
+  HiAcademicCap,
+  HiEnvelope,
+  HiHome,
+  HiIdentification,
+  HiLightBulb,
+} from "react-icons/hi2";
 import profileImage from "../assets/ye.jpeg";
 
 
 const navItems = [
-  { to: "/", label: "Home" },
-  { to: "/about", label: "About" },
-  { to: "/projects", label: "Projects" },
-  { to: "/certificates", label: "Certificates" },
-  { to: "/contact", label: "Contact" },
+  { to: "/", label: "Home", icon: HiHome },
+  { to: "/about", label: "About", icon: HiIdentification },
+  { to: "/skills", label: "Skills", icon: HiLightBulb },
+  { to: "/certificates", label: "Certificates", icon: HiAcademicCap },
+  { to: "/contact", label: "Contact", icon: HiEnvelope },
 ];
 
 function Navbar() {
@@ -32,7 +39,8 @@ function Navbar() {
                 `site-menu__link${isActive ? " site-menu__link--active" : ""}`
               }
             >
-              {item.label}
+              <item.icon aria-hidden="true" />
+              <span>{item.label}</span>
             </NavLink>
           ))}
         </nav>
