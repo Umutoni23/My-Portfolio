@@ -41,14 +41,14 @@ export const skillCategories = [
 ];
 
 export const toolsAndPlatforms = [
-  "Microsoft Word",
-  "Microsoft Excel",
+  "Microsoft Office",
   "Microsoft PowerPoint",
   "Google Workspace",
   "Trello",
   "Canva",
   "VS Code",
   "GitHub",
+  "Notepad++",
 ];
 
 export const skillHighlights = [
