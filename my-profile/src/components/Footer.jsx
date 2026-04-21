@@ -16,7 +16,7 @@ function Footer() {
 
           <div className="footer-socials">
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/leoncieumutoni23/?__pwa=1"
               target="_blank"
               rel="noreferrer"
               aria-label="Instagram"
