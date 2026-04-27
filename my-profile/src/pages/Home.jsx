@@ -14,12 +14,8 @@ function Home() {
               <h1 className="hero-title">Welcome to my Portfolio</h1>
 
               <p className="hero-description">
-                Hello, I&apos;m <strong>Leoncie Umutoni</strong>, a motivated
-                Project Management student at Kepler College with a strong
-                passion for technology, innovation, and problem-solving. I enjoy
-                building useful digital experiences, learning through real
-                projects, and creating work that reflects both growth and
-                purpose.
+                Hello, I'm <strong>Leoncie Umutoni</strong>, 
+                a Project Management student at Kepler College in Kigali. I specialize in organizing and managing projects while applying technology and innovation to solve real-world problems. I am passionate about creating practical digital solutions, improving processes, and continuously developing my skills through hands-on experience. I am driven by growth, impact, and delivering meaningful results through my work.
               </p>
             </div>
 
