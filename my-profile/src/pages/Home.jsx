@@ -41,7 +41,7 @@ function Home() {
           <div className="portfolio-showcase__intro">
             <p className="portfolio-showcase__eyebrow">Work Experience</p>
             <h1 className="portfolio-showcase__title">
-              My Work Experience in different Organization
+              My Work Experience in different Organizations
             </h1>
             <p className="portfolio-showcase__summary">
               I have gained valuable experience through various roles that have
