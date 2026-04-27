@@ -7,19 +7,19 @@ const strengths = [
 const experienceItems = [
   {
     role: "Engineering Planning Coordinator Assistant",
-    company: "REG",
+    company: "Rwanda Energy Group (REG)",
     summary:
       "Supported planning activities, followed project schedules, and helped teams stay aligned on engineering priorities and delivery timelines.",
   },
   {
     role: "Teaching Assistant",
-    company: "IEE",
+    company: "Inspire Educate and Empower Rwanda(IEE)",
     summary:
       "Helped create a supportive learning environment by assisting with lessons, guiding students, and improving engagement in the classroom.",
   },
   {
     role: "Frontend Developer",
-    company: "Igire Rwanda",
+    company: "Igire Rwanda Organization (IRO)",
     summary:
       "Built responsive user interfaces with React, HTML, CSS, and JavaScript while translating ideas into clear digital experiences and improving usability.",
   },
