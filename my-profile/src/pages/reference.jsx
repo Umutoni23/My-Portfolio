@@ -4,8 +4,8 @@ import {
   FaEnvelope,
   FaHospital,
   FaIdBadge,
-  FaUserDoctor,
   FaPhone,
+  FaUserMd,
   FaUserTie,
 } from "react-icons/fa";
 
@@ -112,7 +112,7 @@ function Reference() {
                           aria-hidden="true"
                         >
                           {item.position === "Doctor" ? (
-                            <FaUserDoctor />
+                            <FaUserMd />
                           ) : (
                             <FaIdBadge />
                           )}
