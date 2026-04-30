@@ -4,6 +4,9 @@ import babel from "@rolldown/plugin-babel";
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
-  base: command === "serve" ? "/" : "/My-Portfolio/",
+  base:
+    command === "serve" || process.env.VERCEL
+      ? "/"
+      : "/My-Portfolio/",
   plugins: [react(), babel({ presets: [reactCompilerPreset()] })],
 }));

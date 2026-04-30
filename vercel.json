@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "installCommand": "cd my-profile && npm install",
+  "buildCommand": "cd my-profile && npm run build",
+  "outputDirectory": "my-profile/dist"
+}
