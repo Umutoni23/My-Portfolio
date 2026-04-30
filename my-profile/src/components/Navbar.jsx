@@ -1,6 +1,7 @@
 import { NavLink } from "react-router-dom";
 import {
   HiAcademicCap,
+  HiDocumentText,
   HiEnvelope,
   HiHome,
   HiIdentification,
@@ -14,6 +15,7 @@ const navItems = [
   { to: "/about", label: "About", icon: HiIdentification },
   { to: "/skills", label: "Skills", icon: HiLightBulb },
   { to: "/certificates", label: "Certificates", icon: HiAcademicCap },
+  { to: "/reference", label: "Reference", icon: HiDocumentText },
   { to: "/contact", label: "Contact", icon: HiEnvelope },
 ];
 
