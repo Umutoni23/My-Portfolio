@@ -3,6 +3,8 @@ import essentialAiImage from "../assets/Essenal AI.png";
 import scrumMasterImage from "../assets/Professional  Scrum Master.jpg";
 import teachingCertificateImage from "../assets/teaching certificate.png";
 import virtualAssistantImage from "../assets/Virtual Assisstant.png";
+import AIProductivityImage from "../assets/AI productivity.png";
+import ManagementInPracticeImage from "../assets/Management in practice.png";
 
 const certificates = [
   {
@@ -33,7 +35,7 @@ const certificates = [
       "This certificate shows my knowledge of Agile practices and Scrum framework in project management. It reflects my understanding of teamwork, project coordination, and delivering work in an organized and efficient manner.",
   },
   {
-    title: "Essential AI",
+     title: "Essential AI",
     issuer: "ALX Africa",
     period: "2024",
     image: essentialAiImage,
@@ -49,6 +51,24 @@ const certificates = [
     imageAlt: "Virtual Assistant Certificate",
     description:
       "This certificate demonstrates my skills in virtual assistance, including organization, communication, and digital task management. It reflects my ability to support administrative and online tasks efficiently in a professional setting.",
+  },
+  {
+    title: "AI in Productivity",
+    issuer: "Professional Development",
+    period: "2025",
+    image: AIProductivityImage,
+    imageAlt: "AI in Productivity Certificate",
+    description:
+      "This certificate shows my understanding of how Artificial Intelligence can improve productivity through smarter workflows, better organization, and more efficient task completion. It reflects my interest in using digital tools to work effectively and create practical results.",
+  },
+  {
+    title: "Project Management in Practice",
+    issuer: "Professional Development",
+    period: "2025",
+    image: ManagementInPracticeImage,
+    imageAlt: "Project Management in Practice Certificate",
+    description:
+      "This certificate reflects my practical understanding of project management and the ability to apply planning, coordination, and execution skills in real working environments. It strengthens my capacity to organize tasks, support teamwork, and contribute to successful project delivery.",
   },
 ];
 
