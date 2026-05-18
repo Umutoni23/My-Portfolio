@@ -23,6 +23,7 @@ export const skillCategories = [
       "React",
       "Responsive web design",
       "GitHub",
+      "Overleaf",
     ],
   },
   {
@@ -49,6 +50,7 @@ export const toolsAndPlatforms = [
   "VS Code",
   "GitHub",
   "Notepad++",
+  "OverLeaf",
 ];
 
 export const skillHighlights = [
