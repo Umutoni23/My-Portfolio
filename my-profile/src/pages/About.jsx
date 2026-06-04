@@ -7,13 +7,13 @@ const strengths = [
 const experienceItems = [
   {
     role: "Engineering Planning Coordinator Assistant",
-    company: "Bank of Kigali (BK)",
+    company: "Rwanda Energy Group (REG)",
     summary:
       "Supported planning activities, followed project schedules, and helped teams stay aligned on engineering priorities and delivery timelines.",
   },
   {
-    role: "Cohort Representative",
-    company: "Kepler College",
+    role: "Teaching Assisstant",
+    company: "Inspire Educate and Empower Rwanda(IEE)",
     summary:
       "Helped create a supportive learning environment by assisting with lessons, guiding students, and improving engagement in the classroom.",
   },
