@@ -25,7 +25,7 @@ function Skills() {
         <article className="skills-card skills-card--highlight">
           <p className="skills-card__label">Professional Summary</p>
           <h2 className="skills-card__title">What I bring to a team</h2>
-          <p className="skills-card__text">
+          <p className="skills__text">
             I bring a strong foundation in coordination, collaboration, and
             digital learning. I am especially interested in opportunities where
             I can combine structured planning with communication and technical

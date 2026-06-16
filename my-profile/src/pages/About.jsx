@@ -35,11 +35,18 @@ function About() {
           meaningful digital work.
         </h1>
         <p className="about-hero__text">
-          I am Leoncie Umutoni, a Project Management student with a strong
-          interest in technology, collaboration, and creating solutions that
-          make a real impact. My journey combines academic growth with hands-on
-          experience, helping me develop both professional discipline and a
-          practical understanding of teamwork, planning, and innovation.
+         Hello, I am Leoncie Umutoni, a Project Management professional 
+         who studied Project Management at Kepler College. I am a 
+         Scrum Master, Software Developer, and Project Manager with 
+         skills in project planning, team coordination, Agile methodologies,
+          and digital solution development. I have experience in leadership,
+           communication, problem-solving, and using technology to improve 
+           processes and deliver effective results. I am passionate about 
+           innovation, continuous learning, and creating practical solutions
+            that address real-world challenges. I enjoy working collaboratively
+             with teams, managing projects efficiently, and contributing to
+              organizational growth through creativity, professionalism, and
+               a results-oriented approach.
         </p>
       </div>
 
