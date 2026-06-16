@@ -15,7 +15,15 @@ function Home() {
 
               <p className="hero-description">
                 Hello, I'm <strong>Leoncie Umutoni</strong>, 
-                a Project Management student at Kepler College in Kigali. I specialize in organizing and managing projects while applying technology and innovation to solve real-world problems. I am passionate about creating practical digital solutions, improving processes, and continuously developing my skills through hands-on experience. I am driven by growth, impact, and delivering meaningful results through my work.
+                 , a Project Management professional, Scrum Master, and Software Developer
+                  with a passion for using technology, innovation, and Agile practices to 
+                  solve real-world problems. Having studied Project Management at Kepler College, 
+                  I have developed skills in project planning, team coordination, leadership, 
+                  problem-solving, and digital solution development. I enjoy creating practical
+                   solutions, improving processes, and working collaboratively with teams to 
+                   deliver meaningful results. Driven by continuous learning, professionalism, 
+                   and impact, I am committed to contributing to organizational growth and the
+                    successful delivery of projects and technology-driven initiatives.
               </p>
             </div>
 
