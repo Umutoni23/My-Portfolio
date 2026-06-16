@@ -36,7 +36,7 @@ function About() {
         </h1>
         <p className="about-hero__text">
          Hello, I am Leoncie Umutoni, a Project Management professional 
-         who studied Project Management at Kepler College. I am a 
+         who studied Project Management at Kepler College. A 
          Scrum Master, Software Developer, and Project Manager with 
          skills in project planning, team coordination, Agile methodologies,
           and digital solution development. I have experience in leadership,
