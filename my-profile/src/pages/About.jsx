@@ -12,7 +12,7 @@ const experienceItems = [
       "Supported planning activities, followed project schedules, and helped teams stay aligned on engineering priorities and delivery timelines.",
   },
   {
-    role: "Teaching Assistant",
+    role: "Teaching Assisstant",
     company: "Inspire Educate and Empower Rwanda(IEE)",
     summary:
       "Helped create a supportive learning environment by assisting with lessons, guiding students, and improving engagement in the classroom.",
